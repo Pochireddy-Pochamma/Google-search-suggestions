@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.app-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.img {
+  height: 120px;
+  width: 250px;
+}
+.cont {
+  display: flex;
+  justify-content: flex-start;
+  padding-left: 20px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  width: 300px;
+  border-radius: 10px;
+  align-items: center;
+}
+.icon {
+  height: 20px;
+  width: 20px;
+}
+.search {
+  border: 0px;
+  border-radius: 5px;
+  border-width: 0px;
+  border-color: #ffffff;
+}
+.list {
+  list-style-type: none;
+}
